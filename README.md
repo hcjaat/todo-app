@@ -30,6 +30,12 @@ A clean, modern, and fully client-side to-do application. Features persistent st
 5. **Mark tasks as completed** using the checkbox.
 6. **Use search, filter, and sort controls** to manage your list efficiently.
 7. **Undo** accidental deletions using the toast notification.
+##Screenshots
+<img width="1920" height="971" alt="Pasted image" src="https://github.com/user-attachments/assets/c20351e0-07fd-421c-95c7-e6112c3fbba0" />
+<img width="1920" height="971" alt="Pasted image (2)" src="https://github.com/user-attachments/assets/b09464ce-d836-4a14-a5f9-1d84c9337024" />
+<img width="1920" height="971" alt="Pasted image (3)" src="https://github.com/user-attachments/assets/4dad3fa8-9f73-4bfc-88c4-1b5cbbfd1162" />
+
+
 
 ## Keyboard Shortcuts
 - **Enter:** Add new task / Save edit
