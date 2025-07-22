@@ -15,8 +15,9 @@ A clean, modern, and fully client-side to-do application. Features persistent st
 - **No backend required:** All data is stored in browser Local Storage
 - **Beautiful, modern design**
 
-## 🔗 Live Demo
->>t0-d0-l1s8.netlify.app
+## 🔗 Live Demo  
+[👉 Open Live Demo](https://t0-d0-l1s8.netlify.app)
+
 
 ## Usage
 
