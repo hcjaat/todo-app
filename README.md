@@ -51,4 +51,4 @@ MIT
 ---
 
 _This app is fully static and can be hosted on any web server or opened directly in your browser._
-# todo-app
+
