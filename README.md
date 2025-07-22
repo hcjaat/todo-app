@@ -16,7 +16,7 @@ A clean, modern, and fully client-side to-do application. Features persistent st
 - **Beautiful, modern design**
 
 ## 🔗 Live Demo
->>[View Live App](t0-d0-l1s8.netlify.app)
+>>t0-d0-l1s8.netlify.app
 
 ## Usage
 
